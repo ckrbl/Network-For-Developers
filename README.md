@@ -7,4 +7,4 @@ Here is the network topology that will result:
 
 Hosts in the A-Net are able to reach hosts in the B-Net and vice-versa. This network provides v6-in-v4 over an ipv4 wireguard connection. 
 
-Please see (INSTURCTIONS.md)[INSTURCTIONS.md] for the guide for setting this type of network up.
+Please see [INSTURCTIONS.md](INSTURCTIONS.md) for the guide for setting this type of network up.
