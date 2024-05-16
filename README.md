@@ -3,7 +3,8 @@ This is an example network deployment that can be used to mesh together differen
 
 Here is the network topology that will result:
 
-![Current Network Topology](doc/WorkNet-Topology-Today.png)
+![image](https://github.com/ckrbl/Network-For-Developers/assets/99300381/6aebdcb6-6229-4ff3-9b98-a804a76803ea)
+
 
 Hosts in the A-Net are able to reach hosts in the B-Net and vice-versa. This network provides v6-in-v4 over an ipv4 wireguard connection. 
 
